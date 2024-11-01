@@ -1,0 +1,491 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/woocommerce-invoicexpress\n"
+"POT-Creation-Date: 2017-05-21 16:00:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: tags/0.12/woo-includes/woo-functions.php:328
+#: trunk/woo-includes/woo-functions.php:328
+msgid "n/a"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:79
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:40
+#: tags/0.3/woocommerce-invoicexpress.php:40
+#: tags/0.4/woocommerce-invoicexpress.php:40
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:56
+#: tags/0.5/woocommerce-invoicexpress.php:56
+#: tags/0.6/woocommerce-invoicexpress.php:56
+#: tags/0.7/woocommerce-invoicexpress.php:56
+#: tags/0.8/woocommerce-invoicexpress.php:56
+#: trunk/woocommerce-invoicexpress.php:81
+msgid "InvoiceXpress"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:91
+#: trunk/woocommerce-invoicexpress.php:93
+msgid "General Settings"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:96
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:55
+#: tags/0.3/woocommerce-invoicexpress.php:55
+#: tags/0.4/woocommerce-invoicexpress.php:55
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:71
+#: tags/0.5/woocommerce-invoicexpress.php:71
+#: tags/0.6/woocommerce-invoicexpress.php:71
+#: tags/0.7/woocommerce-invoicexpress.php:71
+#: tags/0.8/woocommerce-invoicexpress.php:71
+#: trunk/woocommerce-invoicexpress.php:98
+msgid "Subdomain"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:100
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:59
+#: tags/0.3/woocommerce-invoicexpress.php:59
+#: tags/0.4/woocommerce-invoicexpress.php:59
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:75
+#: tags/0.5/woocommerce-invoicexpress.php:75
+#: tags/0.6/woocommerce-invoicexpress.php:75
+#: tags/0.7/woocommerce-invoicexpress.php:75
+#: tags/0.8/woocommerce-invoicexpress.php:75
+#: trunk/woocommerce-invoicexpress.php:102
+msgid "API Token"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:104
+#: trunk/woocommerce-invoicexpress.php:106
+msgid "Invoice as Draft"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:108
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:67
+#: tags/0.3/woocommerce-invoicexpress.php:67
+#: tags/0.4/woocommerce-invoicexpress.php:67
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:83
+#: tags/0.5/woocommerce-invoicexpress.php:83
+#: tags/0.6/woocommerce-invoicexpress.php:83
+#: tags/0.7/woocommerce-invoicexpress.php:83
+#: tags/0.8/woocommerce-invoicexpress.php:83
+#: trunk/woocommerce-invoicexpress.php:110
+msgid "Send Invoice"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:112
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:71
+#: tags/0.3/woocommerce-invoicexpress.php:71
+#: tags/0.4/woocommerce-invoicexpress.php:71
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:87
+#: tags/0.5/woocommerce-invoicexpress.php:87
+#: tags/0.6/woocommerce-invoicexpress.php:87
+#: tags/0.7/woocommerce-invoicexpress.php:87
+#: tags/0.8/woocommerce-invoicexpress.php:87
+#: trunk/woocommerce-invoicexpress.php:114
+msgid "Create Simplified Invoice"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:116
+#: trunk/woocommerce-invoicexpress.php:118
+msgid "Add NIF field"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:136
+#: trunk/woocommerce-invoicexpress.php:138
+msgid "General"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:137
+#: trunk/woocommerce-invoicexpress.php:139
+msgid "Upgrade"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:169
+#: tags/0.12/woocommerce-invoicexpress.php:180
+#: trunk/woocommerce-invoicexpress.php:171
+#: trunk/woocommerce-invoicexpress.php:182
+msgid "Plugin WooCommerce InvoiceXpress"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:172
+#: tags/0.12/woocommerce-invoicexpress.php:183
+#: trunk/woocommerce-invoicexpress.php:174
+#: trunk/woocommerce-invoicexpress.php:185
+msgid "Save Changes"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:197
+#: trunk/woocommerce-invoicexpress.php:199
+msgid "Please fill in the necessary settings below. Then create an invoice and go into an order and choose \"Create Invoice (InvoiceXpress)\"."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:201
+#: trunk/woocommerce-invoicexpress.php:203
+msgid "Enter <b>subdomain.app</b> ( <a href=\"http://widgilabs.bitbucket.org/static/invoicexpress_subdomain_faq.html\" target=\"_blank\">Help me find my subdomain</a> )"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:205
+#: trunk/woocommerce-invoicexpress.php:207
+msgid "Go to Settings >> API in InvoiceXpress to get one."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:211
+#: trunk/woocommerce-invoicexpress.php:213
+msgid "Send the client an e-mail with the order invoice attached (<i>recommended</i>)."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:217
+#: trunk/woocommerce-invoicexpress.php:219
+msgid "Add a client NIF field to the checkout form (<i>recommended</i>)."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:224
+#: trunk/woocommerce-invoicexpress.php:226
+msgid "Create simplified invoices. Only available for Portuguese accounts."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:231
+#: trunk/woocommerce-invoicexpress.php:233
+msgid "Create invoice as draft."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:266
+#: trunk/woocommerce-invoicexpress.php:268
+msgid "Plugin WooCommerce InvoiceXpress Pro e Premium"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:267
+msgid "Apenas algumas razões para fazer o upgrade:"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:269
+msgid "- Faturação automática."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:270
+msgid "- Escolha de série de faturação."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:271
+msgid "- Customização do e-mail enviado ao cliente."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:272
+msgid "- Campo para observações na fatura."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:273
+msgid "- Tempo de resposta reduzidos para pedidos de suporte."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:276
+msgid "Quer saber mais?"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:290
+#: trunk/woocommerce-invoicexpress.php:292
+msgid "Warning: Order total is zero, invoice not created!"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:481
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:239
+#: tags/0.3/woocommerce-invoicexpress.php:239
+#: tags/0.4/woocommerce-invoicexpress.php:220
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:247
+#: tags/0.5/woocommerce-invoicexpress.php:247
+#: tags/0.6/woocommerce-invoicexpress.php:249
+#: tags/0.7/woocommerce-invoicexpress.php:249
+#: tags/0.8/woocommerce-invoicexpress.php:249
+#: trunk/woocommerce-invoicexpress.php:483
+msgid "Client invoice in InvoiceXpress"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:510
+#: tags/0.12/woocommerce-invoicexpress.php:512
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:253
+#: tags/0.3/woocommerce-invoicexpress.php:253
+#: tags/0.4/woocommerce-invoicexpress.php:234
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:270
+#: tags/0.5/woocommerce-invoicexpress.php:270
+#: tags/0.6/woocommerce-invoicexpress.php:272
+#: tags/0.7/woocommerce-invoicexpress.php:272
+#: tags/0.8/woocommerce-invoicexpress.php:272
+#: trunk/woocommerce-invoicexpress.php:512
+#: trunk/woocommerce-invoicexpress.php:514
+msgid "InvoiceXpress Invoice API Error:"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:523
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:264
+#: tags/0.3/woocommerce-invoicexpress.php:264
+#: tags/0.4/woocommerce-invoicexpress.php:245
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:281
+#: tags/0.5/woocommerce-invoicexpress.php:281
+#: tags/0.6/woocommerce-invoicexpress.php:283
+#: tags/0.7/woocommerce-invoicexpress.php:283
+#: tags/0.8/woocommerce-invoicexpress.php:283
+#: trunk/woocommerce-invoicexpress.php:525
+msgid "Order Invoice"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:524
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:265
+#: tags/0.3/woocommerce-invoicexpress.php:265
+#: tags/0.4/woocommerce-invoicexpress.php:246
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:282
+#: tags/0.5/woocommerce-invoicexpress.php:282
+#: tags/0.6/woocommerce-invoicexpress.php:284
+#: tags/0.7/woocommerce-invoicexpress.php:284
+#: tags/0.8/woocommerce-invoicexpress.php:284
+#: trunk/woocommerce-invoicexpress.php:526
+msgid "Please find your invoice in attach. Archive this e-mail as proof of payment."
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:547
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:279
+#: tags/0.3/woocommerce-invoicexpress.php:279
+#: tags/0.4/woocommerce-invoicexpress.php:260
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:296
+#: tags/0.5/woocommerce-invoicexpress.php:296
+#: tags/0.6/woocommerce-invoicexpress.php:298
+#: tags/0.7/woocommerce-invoicexpress.php:298
+#: tags/0.8/woocommerce-invoicexpress.php:298
+#: trunk/woocommerce-invoicexpress.php:549
+msgid "Client invoice sent from InvoiceXpress"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:549
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:281
+#: tags/0.3/woocommerce-invoicexpress.php:281
+#: tags/0.4/woocommerce-invoicexpress.php:262
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:298
+#: tags/0.5/woocommerce-invoicexpress.php:298
+#: tags/0.6/woocommerce-invoicexpress.php:300
+#: tags/0.7/woocommerce-invoicexpress.php:300
+#: tags/0.8/woocommerce-invoicexpress.php:300
+#: trunk/woocommerce-invoicexpress.php:551
+msgid "InvoiceXpress Send Invoice API Error"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:572
+#: trunk/woocommerce-invoicexpress.php:574
+msgid "VAT"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:573
+#: trunk/woocommerce-invoicexpress.php:575
+msgctxt "placeholder"
+msgid "VAT identification number"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:592
+#: tags/0.12/woocommerce-invoicexpress.php:618
+#: tags/0.12/woocommerce-invoicexpress.php:624
+#: trunk/woocommerce-invoicexpress.php:594
+#: trunk/woocommerce-invoicexpress.php:620
+#: trunk/woocommerce-invoicexpress.php:626
+msgid "NIF / NIPC"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:593
+#: trunk/woocommerce-invoicexpress.php:595
+msgctxt "placeholder"
+msgid "Portuguese VAT identification number"
+msgstr ""
+
+#: tags/0.12/woocommerce-invoicexpress.php:633
+#: trunk/woocommerce-invoicexpress.php:635
+msgid "Invalid NIF / NIPC"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:147
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:147
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:147
+msgid "WooThemes Updates"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:167
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:167
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:167
+msgid "WooThemes Plugin Updater"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:174
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:174
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:174
+msgid "WooThemes Username"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:178
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:178
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:178
+msgid "WooThemes Password"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:187
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:187
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:187
+msgid "Login"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:238
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:238
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:238
+msgid "Switch WooThemes Account"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:240
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:240
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:240
+msgid "You are currently logged in as %1$s. To switch to a different WooThemes account, please fill in the login details below."
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:243
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:243
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:243
+msgid "Update your Plugins"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:250
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:250
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:250
+msgid "Login Error"
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:252
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:252
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:252
+msgid "The login details supplied are invalid. Please try again."
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:262
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:262
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:262
+msgid "Enable WooThemes Plugin Updates."
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:264
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:264
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:264
+msgid "Please <a href=\"%1$s\">login</a> to enable automatic plugin updates."
+msgstr ""
+
+#: tags/0.3/trunk/woo-includes/class-woothemes-plugin-updater.php:277
+#: tags/0.3/woo-includes/class-woothemes-plugin-updater.php:277
+#: tags/0.4/woo-includes/class-woothemes-plugin-updater.php:277
+msgid "Hide This Message"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:50
+#: tags/0.3/woocommerce-invoicexpress.php:50
+#: tags/0.4/woocommerce-invoicexpress.php:50
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:66
+#: tags/0.5/woocommerce-invoicexpress.php:66
+#: tags/0.6/woocommerce-invoicexpress.php:66
+#: tags/0.7/woocommerce-invoicexpress.php:66
+#: tags/0.8/woocommerce-invoicexpress.php:66
+msgid "InvoiceXpress for WooCommerce Settings"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:63
+#: tags/0.3/woocommerce-invoicexpress.php:63
+#: tags/0.4/woocommerce-invoicexpress.php:63
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:79
+#: tags/0.5/woocommerce-invoicexpress.php:79
+#: tags/0.6/woocommerce-invoicexpress.php:79
+#: tags/0.7/woocommerce-invoicexpress.php:79
+#: tags/0.8/woocommerce-invoicexpress.php:79
+msgid "Create Invoice"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:90
+#: tags/0.3/woocommerce-invoicexpress.php:90
+#: tags/0.4/woocommerce-invoicexpress.php:90
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:106
+#: tags/0.5/woocommerce-invoicexpress.php:106
+#: tags/0.6/woocommerce-invoicexpress.php:106
+#: tags/0.7/woocommerce-invoicexpress.php:106
+#: tags/0.8/woocommerce-invoicexpress.php:106
+msgid "Please fill in the necessary settings below. InvoiceXpress for WooCommerce works by creating an invoice when order status is updated to processing."
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:125
+#: tags/0.3/woocommerce-invoicexpress.php:125
+#: tags/0.4/woocommerce-invoicexpress.php:125
+#: tags/0.5/trunk/woocommerce-invoicexpress.php:141
+#: tags/0.5/woocommerce-invoicexpress.php:141
+#: tags/0.6/woocommerce-invoicexpress.php:141
+#: tags/0.7/woocommerce-invoicexpress.php:141
+#: tags/0.8/woocommerce-invoicexpress.php:141
+msgid "InvoiceXpress for WooCommerce"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:168
+#: tags/0.3/woocommerce-invoicexpress.php:168
+msgid "Client created in InvoiceXpress"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:171
+#: tags/0.3/woocommerce-invoicexpress.php:171
+msgid "InvoiceXpress Client (Create) API Error"
+msgstr ""
+
+#: tags/0.3/trunk/woocommerce-invoicexpress.php:183
+#: tags/0.3/woocommerce-invoicexpress.php:183
+msgid "InvoiceXpress Client (Get) API Error"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:269
+msgid "Just a few reasons to upgrade:"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:271
+msgid "- Automatic invoicing."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:272
+msgid "- Invoice series."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:273
+msgid "- Customize the e-mail sent to client."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:274
+msgid "- Invoice Details field."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:275
+msgid "- Reduzed reply time to support tickets."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:276
+msgid "And much more.."
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:276
+msgid "veja todos os benefícios!"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:278
+msgid "Want to know more?"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:279
+msgid "Visit the plugin site"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:419
+msgid "Shipping"
+msgstr ""
+
+#: trunk/woocommerce-invoicexpress.php:420
+msgid "Shipping costs"
+msgstr ""
